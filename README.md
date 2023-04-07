@@ -5,7 +5,7 @@
 </h1>
 
 <h3>
-    <i>- I'm a Programmer, a Tech Enthusiast, Explorer, Dreamer & Creator. </i>
+    <i>- I'm a Programmer, a Tech Enthusiast. </i>
 </h3>
 
 <h3>
