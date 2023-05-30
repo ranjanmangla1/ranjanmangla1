@@ -9,7 +9,7 @@
 </h3>
 
 <h3>
-    <i>- Currently learning more about Web Development</i>
+    <i>- Currently learning Data Analysis (using Python) and Machine Learning</i>
 </h3>
 <h3>
     <i>- Let's make this world a better place to live through our Creativity & with the power we have under our fingertips. 
