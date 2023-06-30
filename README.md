@@ -32,3 +32,21 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjanmangla1&show_icons=true&locale=en&layout=compact" alt="ranjan-mangla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjanmangla1&show_icons=true&locale=en" alt="ranjan mangla" /></p>
+
+<!-- new stuff -->
+
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjanmangla1&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranjanmangal1&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranjanmangla1&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranjanmangla1&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjanmangla1&theme=github_dark" />
+</div>
+<!--
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=072arushio&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=072arushi&hide=issues&count_private=true&show_icons=true&theme=calm" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=072arushi&layout=compact&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
+</div>
+-->
+
