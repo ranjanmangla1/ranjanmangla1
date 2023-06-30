@@ -5,14 +5,14 @@
 </h1>
 
 <h3>
-    <i>- I'm a Programmer, a Tech Enthusiast. </i>
+    <i>- I'm a Programmer, Designer and an Open Source Enthusiast. </i>
 </h3>
 
 <h3>
-    <i>- Currently learning Data Analysis (using Python) and Machine Learning</i>
+    <i>- Learning Data Analysis (using Python) and Machine Learning, these days</i>
 </h3>
 <br>
-<h1 align="center"><i>Let's Connect</i></h1>
+<h1><i>Let's Connect</i></h1>
 
 <div align="center">
 <p align="left">
