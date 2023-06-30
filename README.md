@@ -37,7 +37,7 @@
 
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjanmangla1&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranjanmangal1&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranjanmangal&theme=github_dark"  />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranjanmangla1&theme=github_dark"  />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranjanmangla1&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjanmangla1&theme=github_dark" />
