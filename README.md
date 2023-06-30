@@ -12,7 +12,7 @@
     <i>- Currently learning Data Analysis (using Python) and Machine Learning</i>
 </h3>
 <br>
-<h1 align="center><i>Let's Connect</i></h1>
+<h1 align="center"><i>Let's Connect</i></h1>
 
 <div align="center">
 <p align="left">
