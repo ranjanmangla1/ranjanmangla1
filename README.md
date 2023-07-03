@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/ranjanmangla1/ranjanmangla1/raw/main/assets/profile.gif" alt="Hi, I'm Ranjan 👋 I'm a 🚀 Developer 🚀 I ❤️ Open Source ❤️">
+</p>
 
 <!-- <h1 align="center">
     Hi,
