@@ -1,4 +1,6 @@
-<h1 align="center">
+
+
+<!-- <h1 align="center">
     Hi,
     I'm Ranjan
      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
@@ -10,7 +12,7 @@
 
 <h3>
     <i>- Learning Data Analysis (using Python) and Machine Learning, these days</i>
-</h3>
+</h3> -->
 <br>
 <h1><i>Let's Connect</i></h1>
 
