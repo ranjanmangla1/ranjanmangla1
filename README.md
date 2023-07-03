@@ -16,7 +16,7 @@
     <i>- Learning Data Analysis (using Python) and Machine Learning, these days</i>
 </h3> -->
 <br>
-<h1><i>Let's Connect</i></h1>
+<h3>Let's Connect</h3>
 
 <div align="center">
 <p align="left">
@@ -24,7 +24,7 @@
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ranjan_mangla" />
     </a>
     <a href="https://ranjanmangla.codes">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ranjanmangal.codes/" />
+        <img align="center" src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ranjanmangal.codes/" />
     </a>
     <a title="ranjanmangla1@gmail.com" href="mailto:ranjanmangla1@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ranjanmangla1@gmail.com" />
