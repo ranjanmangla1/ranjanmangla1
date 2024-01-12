@@ -7,7 +7,7 @@
 ## About Me
 
 <div align="center">
-<img align="right" style="border-radius: 1px; padding: 1rem; width=30%; height: auto;" src="./assets/lain-working.gif" alt="lain from serial experiments lain working on computer">
+<img align="right" style="border-radius: 1px; padding: 1rem; width=30%; height: auto;" src="https://github.com/ranjanmangla1/ranjanmangla1/blob/main/assets/lain-working.gif" alt="lain from serial experiments lain working on computer">
 
 <div align="left">
 
