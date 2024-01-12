@@ -7,7 +7,7 @@
 ## About Me
 
 <div align="center">
-<img align="right" style="border-radius: 1px; padding: 1rem; width=30%; height: auto;" src="https://github.com/ranjanmangla1/ranjanmangla1/blob/main/assets/lain-working.gif" alt="lain from serial experiments lain working on computer">
+<img align="right" style="border-radius: 1px; padding: 1rem; padding-bottom: 1rem; width: 80%; height: auto;" src="https://github.com/ranjanmangla1/ranjanmangla1/blob/main/assets/lain-working.gif?raw=true" alt="lain from serial experiments lain working on computer">
 
 <div align="left">
 
@@ -15,7 +15,7 @@
 - 💡 Interests in System Programming, Machine Learning, Web Dev
 - 🐧 Linux & Android Enthusiast
 - 🤝 Open Source Enthuisast
-- 🌐 Learning about NixOS, Deep Learning & AWS these days
+- 🌐 Learning NixOS, Deep Learning & AWS
 - ✨ Hobbyist Designer
 
 </div>
