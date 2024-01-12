@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Ranjan 👋</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="A geeky collage">
+</p>
+<h1 align="left">Hi, I'm Ranjan 👋</h1>
+
+
 <!-- 
 <p align="center">
   <img src="https://github.com/ranjanmangla1/ranjanmangla1/raw/main/assets/profile.gif" alt="Hi, I'm Ranjan 👋 I'm a 🚀 Developer 🚀 I ❤️ Open Source ❤️">
