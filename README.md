@@ -33,8 +33,8 @@
     <a href="https://linkedin.com/ranjan-mangla">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/ranjan-mangla" />
     </a>
-    <a href="https://ranjanmangla.codes">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-FeFeFe?style=for-the-badge&logo=ionic&logoColor=black" alt="https://ranjanmangal.codes/" />
+    <a href="https://ranjanmangla.tech">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-FeFeFe?style=for-the-badge&logo=ionic&logoColor=black" alt="https://ranjanmangla.tech/" />
     </a>
     <a title="ranjanmangla1@gmail.com" href="mailto:ranjanmangla1@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ranjanmangla1@gmail.com" />
