@@ -17,10 +17,10 @@
 <div align="left">
 
 - 👨‍💻 Pre-Final year IT student at NIT Kurukshetra
-- 💡 Interests in System Programming, Machine Learning, Web Dev
+- 💡 Interests in System Programming, Backend Dev & Machine Learning
 - 🐧 Linux & Android Enthusiast
 - 🤝 Open Source Enthuisast
-- 🌐 Learning NixOS, Deep Learning & AWS
+- 🌐 Learning NixOS, creating scalable systems & AWS
 - ✨ Hobbyist Designer
 
 </div>
