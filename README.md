@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm Ranjan 👋</h1>
 <p align="center">
-  <img src="https://github.com/ranjanmangla1/ranjanmangla1/blob/main/assets/lain-working.gif?raw=true" alt="A geeky collage">
+  <img style="border-radius: 1px; width: 70%; height: auto;"  src="https://github.com/ranjanmangla1/ranjanmangla1/blob/main/assets/lain-working.gif?raw=true" alt="A geeky collage">
 </p>
 
 <!-- 
