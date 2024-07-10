@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm Ranjan 👋</h1>
 <p align="center">
-<!--   <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="A geeky collage"> -->
+  <img src="https://github.com/ranjanmangla1/ranjanmangla1/blob/main/assets/lain-working.gif?raw=true" alt="A geeky collage">
 </p>
 
 <!-- 
@@ -12,7 +12,7 @@
 ## About Me
 
 <div align="center">
-<img align="right" style="border-radius: 1px; width: 70%; height: auto;" src="https://github.com/ranjanmangla1/ranjanmangla1/blob/main/assets/lain-working.gif?raw=true" alt="lain from serial experiments lain working on computer">
+<img align="right" style="border-radius: 1px; width: 50%; height: auto;" src="https://raw.githubusercontent.com/ranjanmangla1/ranjanmangla1/main/assets/Lain8.webp" alt="lain from serial experiments lain working on computer">
 
 <div align="left">
 
